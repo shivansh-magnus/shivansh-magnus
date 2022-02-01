@@ -1,4 +1,3 @@
-![Shivansh-the-coder](https://media.giphy.com/media/kkpcRessCvNyo/giphy.gif)
 
 🔹
 <a href="https://twitter.com/Shivans52149281">
@@ -22,7 +21,7 @@
 
 Hi, i'm Shivansh Dwivedi , Software developer beginner from India .
 </br>
-<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/kkpcRessCvNyo/giphy.gif" />
 
 **Speaking of Me:**
 
