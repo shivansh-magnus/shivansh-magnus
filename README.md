@@ -30,3 +30,9 @@ Hi, i'm Shivansh Dwivedi , Software developer beginner from India .
 - 🚀 Huge Space and Science enthusiast and love reading on astrophysics;
 - 🚀 I play Chess , Cricket and Table Tennis;
 - 🚀 Love learning about philosophy , poems and biographies;
+
+---
+
+
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=shivansh-magnus&show_icons=true&theme=radical"><img height='240px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-magnus&exclude_repo=shivansh-magnus.github.io&show_icons=true&theme=radical">
+
