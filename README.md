@@ -36,6 +36,6 @@ Hi, i'm Shivansh Dwivedi , Software developer beginner from India .
 <a href="https://github.com/shivansh-magnus/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivansh-magnus&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/shivansh-magnus/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivansh-magnus&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-magnus">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-magnus" />
 </a>
