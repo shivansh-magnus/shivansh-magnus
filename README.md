@@ -33,9 +33,4 @@ Hi, i'm Shivansh Dwivedi , Software developer beginner from India .
 ---
 
 
-<a href="https://github.com/shivansh-magnus/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivansh-magnus&repo=github-readme-stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-magnus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-magnus" />
-</a>
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=zshashz&show_icons=true&theme=radical"><img height='240px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshashz&exclude_repo=zshashz.github.io&show_icons=true&theme=radical">
