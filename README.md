@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh-magnus&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh-magnus" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@shivans52149281" target="blank"><img src="https://img.shields.io/twitter/follow/@shivans52149281?logo=twitter&style=for-the-badge" alt="@shivans52149281" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@shivans52149281" target="blank"><img src="https://img.shields.io/twitter/url?label=Twitter%20account&style=social&url=https%3A%2F%2Ftwitter.com%2Fhome" alt="@shivans52149281" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter , Swift , Firebase , AI , Solidity**
 
