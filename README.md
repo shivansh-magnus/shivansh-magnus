@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **Dwivediayush2002@gmail.com**
 
+<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <a href="https://twitter.com/@shivans52149281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shivans52149281" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/281254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="281254" height="30" width="40" /></a>
 <a href="https://instagram.com/shivansh1249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansh1249" height="30" width="40" /></a>
