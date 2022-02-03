@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/@shivans52149281" target="blank"><img src="https://img.shields.io/twitter/url?label=Twitter%20account&style=social&url=https%3A%2F%2Ftwitter.com%2Fhome" alt="@shivans52149281" /></a> </p>
 
+<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🌱 I’m currently learning **Flutter , Swift , Firebase , AI , Solidity**
 
 - 💬 Ask me about **HTML , CSS , Flutter , Blockchain , JavaScript**
 
 - 📫 How to reach me **Dwivediayush2002@gmail.com**
-
-<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
