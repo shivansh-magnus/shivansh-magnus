@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML , CSS , Flutter , Blockchain , JavaScript**
 
-- 📫 How to reach me **Dwivediayush2002@gmail.com**
+- 📫 How to reach me **Shivanshfordev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
